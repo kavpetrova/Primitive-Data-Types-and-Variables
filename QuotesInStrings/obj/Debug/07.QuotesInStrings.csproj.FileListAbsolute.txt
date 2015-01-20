@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

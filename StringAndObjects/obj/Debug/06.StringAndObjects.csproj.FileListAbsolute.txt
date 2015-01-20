@@ -1,0 +1,5 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\StringAndObjects\bin\Debug\StringAndObjects.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\StringAndObjects\bin\Debug\StringAndObjects.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\StringAndObjects\obj\Debug\StringAndObjects.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\StringAndObjects\obj\Debug\StringAndObjects.pdb
